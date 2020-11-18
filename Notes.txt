@@ -1,0 +1,1 @@
+Example Elastic Search Configs for a Master and 2 Data Nodes.
